@@ -1,11 +1,11 @@
 {
-  "name": "parse-server",
+  "name": "parse-server-jeffgukang",
   "version": "4.0.1",
-  "description": "An express module providing a Parse-compatible API server",
+  "description": "For personal use",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/parse-community/parse-server"
+    "url": "https://github.com/JeffGuKang/parse-server"
   },
   "files": [
     "bin/",
